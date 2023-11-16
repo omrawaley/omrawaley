@@ -5,7 +5,7 @@
 - Game Developing 🎮
 - Linux 🐧
 
-## Languages:
+## Main Languages:
 
 <div>
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50">
@@ -13,7 +13,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" width="50">
 </div>
 
-## Libraries/Frameworks:
+## Main Libraries/Frameworks:
 
 <div>
   <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-big.png" width="50">
