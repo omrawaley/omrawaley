@@ -19,3 +19,10 @@
   <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-big.png" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg/2048px-L%C3%96VE_app_icon_%280.10.1%29.svg.png" width="50">
 </div>
+
+## OSs
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/300px-MacOS_logo_%282017%29.svg.png" width="50">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3521282-2944701.png" width="50">
+</div>
