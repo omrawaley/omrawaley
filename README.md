@@ -13,6 +13,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" width="50">
 </div>
 
+### Learning:
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="50">
+</div>
+
+<p>(Rust)</p>
+
 ## Main Libraries/Frameworks:
 
 <div>
