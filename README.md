@@ -18,6 +18,7 @@
 
 <div>
   <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-big.png" width="50">
+  <img src="https://repository-images.githubusercontent.com/330008801/e466ed80-576b-11eb-93f8-bcb1604b399f" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg/2048px-L%C3%96VE_app_icon_%280.10.1%29.svg.png" width="50">
 </div>
 
