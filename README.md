@@ -25,6 +25,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg/2048px-L%C3%96VE_app_icon_%280.10.1%29.svg.png" width="50">
 </div>
 
+## Editors
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="50"/>
+</div>
+
 ## OSs
 
 <div>
