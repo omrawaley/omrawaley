@@ -10,6 +10,6 @@
 
 ## Contact
 
-https://bytebase.pages.dev
+My blog: https://bytebase.pages.dev
 
-https://omrawaleyportfolio.vercel.app
+My portfolio: https://omrawaleyportfolio.vercel.app
