@@ -8,7 +8,7 @@
 - Compilers
 - Game Development
 
-## Contact
+## Websites
 
 My blog: https://bytebase.pages.dev
 
