@@ -7,9 +7,6 @@
 - Computer Architectures
 - Compilers
 - Game Development
-
-## Websites
-
-My blog: https://bytebase.pages.dev
-
-My portfolio: https://omrawaleyportfolio.vercel.app
+- Embedded Systems
+- Electrical Engineering
+- CAD 3D Modeling
