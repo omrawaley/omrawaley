@@ -8,7 +8,6 @@ I'm building a portable STEM video game console named **PocketByte** that aims t
 
 ### 🌐 Check out my websites!
 - [**Blog**](https://bytebase.pages.dev)
-- [**Portfolio** (WIP)](https://omrawaleyportfolio.vercel.app)
 - [**PocketByte**](https://pocketbyte.co)
 
 ### 📚 My Interests
