@@ -7,6 +7,7 @@ I'm building a portable STEM video game console named **PocketByte** that aims t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omrawaley&hide=makefile&size_weight=0.5&count_weight=0.5&langs_count=6)
 
 ### 🌐 Check out my websites!
+- [**Personal Site**](https://omrawaley.pages.dev)
 - [**Blog**](https://bytebase.pages.dev)
 - [**PocketByte**](https://pocketbyte.co)
 
