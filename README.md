@@ -22,6 +22,7 @@ I'm building a portable STEM video game console named **PocketByte** that aims t
 - Game Development
 - Graphics programming
 - Embedded Systems
+- Operating System Development
 - Electrical Engineering
 - CAD 3D Modeling
 - Pixel art
