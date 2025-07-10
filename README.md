@@ -1,6 +1,6 @@
 ### 👋 Hey, welcome!
 
-My name's Om Rawaley, and I am immensely passionate about computer engineering, design, and entrepreneurship. 
+My name's Om Rawaley. I like computer engineering, design, and entrepreneurship. 
 
 I'm building a portable STEM video game console named **PocketByte** that aims to help STEM learners get into computer engineering and give computer hobbyists a fun, creative platform to bring their ideas to life. [**Check it out!**](https://pocketbyte.co)
 
